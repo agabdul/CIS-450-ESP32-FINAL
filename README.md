@@ -1,5 +1,5 @@
 # CIS 450 : Operating Systems Light Control and Voice Announcement Final Project
-### Completed by Abraham Abdulkarim, Calli Best, and Adam Winder
+Completed by Abraham Abdulkarim, Calli Best, and Adam Winder
 
 ## LINK TO YOUTUBE VIDEO
 

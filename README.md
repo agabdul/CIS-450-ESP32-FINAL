@@ -11,5 +11,5 @@ Completed by Abraham Abdulkarim, Calli Best, and Adam Winder
 
 - **src**: All source code files
 - **docs**: Project Report
-- **media**: Voice announcement audio files
+- **media**: Voice announcement audio files and System Architecture Diagram
 - **videos**: Video demo and code explanation
